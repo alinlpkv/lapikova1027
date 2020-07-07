@@ -1,0 +1,52 @@
+{
+  "goods": [
+    {
+      "name": "тумбочка",
+      "amount": 2,
+      "status": 0,
+      "id": 2
+    },
+    {
+      "name": "шкаф",
+      "amount": 51,
+      "status": 1,
+      "id": 3
+    },
+    {
+      "name": "зеркало",
+      "amount": "12",
+      "status": 0,
+      "id": 5
+    },
+    {
+      "name": "ящик",
+      "amount": "3",
+      "status": 1,
+      "id": 6
+    },
+    {
+      "name": "альбом",
+      "amount": 789,
+      "status": 1,
+      "id": 8
+    },
+    {
+      "name": "ноутбук",
+      "amount": 20,
+      "status": 0,
+      "id": 9
+    },
+    {
+      "name": "компьютер ",
+      "amount": 0,
+      "status": 0,
+      "id": 10
+    },
+    {
+      "name": "бра",
+      "amount": 5,
+      "status": 1,
+      "id": 11
+    }
+  ]
+}
